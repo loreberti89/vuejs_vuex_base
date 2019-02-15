@@ -1,25 +1,25 @@
 # vuex base
-requirements: node 8.12.0
 
+
+## Project setup
+```
+requirements: node 8.12.0
+```
+```
 vue-cli
+```
 
 yarn is recommended
 
 in root folder create .env.development and add VUE_APP_API_URL=http://apiurl
-
+```
 yarn
-
-yarn service
-
-## Project setup
 ```
-npm install
-```
-
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+yarn serve
 ```
+
 
 ### Compiles and minifies for production
 ```
