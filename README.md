@@ -1,4 +1,15 @@
-# bodyshop_frontend
+# vuex base
+requirements: node 8.12.0
+
+vue-cli
+
+yarn is recommended
+
+in root folder create .env.development and add VUE_APP_API_URL=http://apiurl
+
+yarn
+
+yarn service
 
 ## Project setup
 ```
